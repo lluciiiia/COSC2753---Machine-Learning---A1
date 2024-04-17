@@ -1,6 +1,6 @@
 # COSC2753 Machine Learning Assignment 1 (Individual)
 
-Welcome to the COSC2753 Machine Learning Assignment 1 (Individual) repository! This project serves as the first individual assignment for COSC2753 Machine Learningg course.
+Welcome to the COSC2753 Machine Learning Assignment 1 (Individual) repository! This project serves as the first individual assignment for COSC2753 Machine Learning course.
 
 ## About the Project ℹ️
 
